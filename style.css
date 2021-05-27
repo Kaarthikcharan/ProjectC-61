@@ -1,0 +1,77 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 2px 2px #00ff11;
+}
+
+img {
+    height: 100%;
+    width: 25%;
+  
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#6dd16e 30%, #0be00b 70%)
+}
+
+#myhobbies {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    
+}
+#work{
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+#contact{
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    
+    
+    
+}    
+    
+    
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: dodgerblue;
+}
+
+.links{
+    float:left;
+    color:aqua;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size:20px;
+}
+.links:hover{
+    background-color: blue;
+}
+img:hover{
+    transform:scale(0.9)
+}
